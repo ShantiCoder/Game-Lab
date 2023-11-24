@@ -1,0 +1,12 @@
+body {
+    background-color: gold;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background-color: aquamarine;
+}
